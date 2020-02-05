@@ -1,0 +1,13 @@
+{
+    "banner": {
+        "1": "https://i.ibb.co/gZN4603/breakfast.png",
+        "2": "https://i.ibb.co/99LDs84/lunch.png",
+        "3": "https://i.ibb.co/gyJNtZp/dinner.png",
+        "4": "https://i.ibb.co/rmL8fFc/night.png"
+    },
+    "recommend": {
+        "first": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/healthy-eating-ingredients-1296x728-header.jpg?w=1155&h=1528",
+        "second": "https://st4.depositphotos.com/1000589/20627/i/1600/depositphotos_206279144-stock-photo-top-view-ingredients-healthy-food.jpg",
+        "third": "https://www.cheatsheet.com/wp-content/uploads/2015/03/Healthy-Foods-640x423-640x423.jpg"
+    }
+}

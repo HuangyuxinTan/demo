@@ -1,0 +1,62 @@
+{
+		"banners":[
+			{
+				"image":"https://i.ibb.co/YhddWyG/1.jpg",
+				"link":"https://www.google.ca/?gws_rd=ssl"
+			},
+			{
+				"image":"https://i.ibb.co/YhddWyG/1.jpg",
+				"link":"https://www.google.ca/?gws_rd=ssl"
+			}, 
+			{
+				"image":"https://i.ibb.co/YhddWyG/1.jpg",
+				"link":"https://www.google.ca/?gws_rd=ssl"
+			}
+		],
+		"types":[
+			{
+				"link":"https://i.ibb.co/gZN4603/breakfast.png",
+				"image":"https://i.ibb.co/gZN4603/breakfast.png",
+				"title":"breakfast"
+			},
+			{
+				"link":"https://i.ibb.co/99LDs84/lunch.png",
+				"image":"https://i.ibb.co/99LDs84/lunch.png",
+				"title":"lunch"
+			},
+			{
+				"link":"https://i.ibb.co/gyJNtZp/dinner.png",
+				"image":"https://i.ibb.co/gyJNtZp/dinner.png",
+				"title":"dinner"
+			},
+			{
+				"link":"https://i.ibb.co/rmL8fFc/night.png",
+				"image":"https://i.ibb.co/rmL8fFc/night.png",
+				"title":"night"
+			}
+		],
+		"recommendList":[
+			{
+				"title":"smash burger alfresco",
+				"image":"https://i.ibb.co/1MLnPCQ/smash-burger-alfresco.jpg",
+				"link":"https://i.ibb.co/1MLnPCQ/smash-burger-alfresco.jpg",
+				"star":1234,
+				"description":"A three-ounce patty hits your sweet pot, it is big enough to fill out the bun, but small enough that two patties aren't overkill."
+				
+			},
+			{
+				"title":"cheesy croutons",
+				"image":"https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+				"link":"https://i.ibb.co/LZyskj3/cheesy-croutons.jpg",
+				"star":2134,
+				"description":"Our better-than-ever broccoli cheddar is lighter, brighter, and less gloppy than the kind you'd find in your corporate cafeteria, with creaminess that comes from blended potatoes and broccoli stalks rather than heavy cream."
+			}, 
+			{
+				"title":"turkey and bean chili",
+				"image":"https://i.ibb.co/qncjsxx/turkey-and-bean-chili.jpg",
+				"link":"https://i.ibb.co/qncjsxx/turkey-and-bean-chili.jpg",
+				"star":2013,
+				"description":"Turkey with white beans, a robust and concentrated chile purée, and simmer it for just long enough, it delivers major body and richness."
+			}
+		]
+}
